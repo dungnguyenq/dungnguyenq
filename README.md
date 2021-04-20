@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dzung Nguyen
+- 👋 Hi, I’m Dzung Nguyen, a developer from VietNam
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java, Go
 
