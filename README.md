@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dzung Nguyen, a developer from VietNam
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java, Go
+- 🌱 I’m currently learning Java, Go, React
 
 <!---
 dungnguyenq/dungnguyenq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
